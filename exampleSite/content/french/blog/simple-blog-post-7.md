@@ -1,9 +1,9 @@
 ---
 title: Simple Blog Post
-date: 2018-09-12T12:52:36.000+06:00
+date: 2021-01-30T03:00:00+00:00
 image_webp: "/images/pano_20151220_165418.jpg"
 image: "/images/20210116_102428.jpg"
-author: John Doe
+author: colette
 description: This is meta description
 draft: true
 
