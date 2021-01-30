@@ -5,7 +5,6 @@ image_webp: "/images/pano_20151220_165418.jpg"
 image: "/images/20210116_102428.jpg"
 author: colette
 description: This is meta description
-draft: true
 
 ---
 **C’est depuis son unique pont, le dos tourné à l’ouest que la vue sur PUY L’EVEQUE est la plus époustouflante** ! Une avalanche de maisons accrochées à la falaise, ordonnées sur plusieurs niveaux, du confluent du Lot avec les Clédelles jusqu’au  sommet, à la Tour carrée . 
