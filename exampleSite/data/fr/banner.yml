@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image_webp: ''
   bg_image: images/PLE pano/.jpg
   icon: ''
@@ -8,5 +8,5 @@ banner:
   content: ''
   button:
     enable: true
-    label: Explore Us
+    label: Contact
     link: "#services"
