@@ -2,11 +2,10 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: images/backgrounds/hero-area.jpg
+  bg_image: images/PLE pano/.jpg
   icon: ''
   title: PUY  L'ÉVÊQUE  -  Patrimoine
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  content: ''
   button:
     enable: true
     label: Explore Us
