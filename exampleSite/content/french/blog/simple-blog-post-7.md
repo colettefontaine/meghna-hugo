@@ -2,7 +2,7 @@
 title: Simple Blog Post
 date: 2021-01-30T03:00:00+00:00
 image_webp: "/images/pano_20151220_165418.jpg"
-image: "/images/20210116_102428.jpg"
+image: ''
 author: colette
 description: This is meta description
 
