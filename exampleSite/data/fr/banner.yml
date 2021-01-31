@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: images/PLE pano.jpg
+  bg_image: ''
   icon: ''
   title: PUY  L'ÉVÊQUE  -  Patrimoine
   content: ''
