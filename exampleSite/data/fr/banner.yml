@@ -7,6 +7,6 @@ banner:
   title: PUY  L'ÉVÊQUE  -  Patrimoine
   content: ''
   button:
-    enable: true
+    enable: false
     label: Contact
     link: "#services"
