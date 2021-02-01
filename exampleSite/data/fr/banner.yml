@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
-  bg_image: "///D:/COLETTE/PLE%20-%20D'HIER%20%C3%A0%20AUJOURD'HUI/PHOTOS/PLE/Pano/PANO_20151220_165418.jpg"
+  bg_image_webp: file:///D:/COLETTE/PLE%20-%20D'HIER%20%C3%A0%20AUJOURD'HUI/PHOTOS/PLE/Pano/PANO_20151220_165418.jpg
+  bg_image: ''
   icon: D'H à A cercléNoir-JPG
   title: PUY  L'ÉVÊQUE  -  Patrimoine
   content: ''
