@@ -1,8 +1,8 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
-  bg_image: https://github.com/colettefontaine/meghna-hugo/commit/58bb0719537dcd4d1fd76548c0dc61617238256c?branch=58bb0719537dcd4d1fd76548c0dc61617238256c&diff=unified#diff-dc0b72ba7cf0389c2f17de8e3e847f614ba7ed6a315d4c6c12facf544dd1f5c6
+  bg_image_webp: hero-area.webp
+  bg_image: ''
   icon: ''
   title: PUY  L'ÉVÊQUE  -  Patrimoine
   content: ''
