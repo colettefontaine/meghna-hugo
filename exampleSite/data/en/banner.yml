@@ -3,7 +3,7 @@ banner:
   enable: true
   bg_image_webp: images/backgrounds/hero-area.webp
   bg_image: ''
-  icon: https://github.com/colettefontaine/meghna-hugo/blob/master/exampleSite/static/images/backgrounds/PANO_20151220_165418.jpg
+  icon: PANO_20151220_165418.jpg
   title: PUY L'ÉVÊQUE  -  Patrimoine
   content: From Yesterday   to  Today
   button:
