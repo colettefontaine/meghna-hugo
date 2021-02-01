@@ -1,8 +1,8 @@
 ---
 banner:
-  enable: false
-  bg_image_webp: hero-area.webp
-  bg_image: ''
+  enable: true
+  bg_image_webp: ''
+  bg_image: https://github.com/colettefontaine/meghna-hugo/blob/master/exampleSite/static/images/backgrounds/PANO_20151220_165418.jpg?raw=true
   icon: ''
   title: PUY  L'ÉVÊQUE  -  Patrimoine
   content: D' Hier  à  Aujourd'hui
