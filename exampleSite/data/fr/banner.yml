@@ -2,7 +2,7 @@
 banner:
   enable: true
   bg_image_webp: ''
-  bg_image: " exampleSite/static/images/backgrounds/PANO_20151220_165418.jpg"
+  bg_image: https://raw.githubusercontent.com/colettefontaine/meghna-hugo/58bb0719537dcd4d1fd76548c0dc61617238256c/exampleSite/static/images/backgrounds/PANO_20151220_165418.jpg
   icon: D'H à A cercléNoir-JPG
   title: PUY  L'ÉVÊQUE  -  Patrimoine
   content: ''
