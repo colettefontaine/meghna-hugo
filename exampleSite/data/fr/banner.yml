@@ -1,8 +1,8 @@
 ---
 banner:
-  enable: false
-  bg_image_webp: file:///D:/COLETTE/PLE%20-%20D'HIER%20%C3%A0%20AUJOURD'HUI/PHOTOS/PLE/Pano/PANO_20151220_165418.jpg
-  bg_image: ''
+  enable: true
+  bg_image_webp: ''
+  bg_image: https://github.com/colettefontaine/meghna-hugo/commit/58bb0719537dcd4d1fd76548c0dc61617238256c#diff-dc0b72ba7cf0389c2f17de8e3e847f614ba7ed6a315d4c6c12facf544dd1f5c6
   icon: D'H à A cercléNoir-JPG
   title: PUY  L'ÉVÊQUE  -  Patrimoine
   content: ''
