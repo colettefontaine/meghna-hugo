@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: false
+  enable: true
   bg_image_webp: ''
   bg_image: https://github.com/colettefontaine/meghna-hugo/blob/master/exampleSite/static/images/backgrounds/PANO_20151220_165418.jpg
   icon: ''
