@@ -5,7 +5,7 @@ banner:
   bg_image: images/backgrounds/PANO_20151220_165418.jpg
   icon: ''
   title: PUY L'ÉVÊQUE  -  Patrimoine
-  content: From Yesterday   to  Today
+  content: From Yesterday to Today
   button:
     enable: true
     label: Explore Us
