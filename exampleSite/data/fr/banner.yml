@@ -1,9 +1,9 @@
 ---
 banner:
   enable: true
-  bg_image_webp: ''
-  bg_image: https://raw.githubusercontent.com/colettefontaine/meghna-hugo/58bb0719537dcd4d1fd76548c0dc61617238256c/exampleSite/static/images/backgrounds/PANO_20151220_165418.jpg
-  icon: D'H à A cercléNoir-JPG
+  bg_image_webp: https://github.com/colettefontaine/meghna-hugo/commit/58bb0719537dcd4d1fd76548c0dc61617238256c?branch=58bb0719537dcd4d1fd76548c0dc61617238256c&diff=unified#diff-dc0b72ba7cf0389c2f17de8e3e847f614ba7ed6a315d4c6c12facf544dd1f5c6
+  bg_image: https://github.com/colettefontaine/meghna-hugo/commit/58bb0719537dcd4d1fd76548c0dc61617238256c?branch=58bb0719537dcd4d1fd76548c0dc61617238256c&diff=unified#diff-dc0b72ba7cf0389c2f17de8e3e847f614ba7ed6a315d4c6c12facf544dd1f5c6
+  icon: ''
   title: PUY  L'ÉVÊQUE  -  Patrimoine
   content: ''
   button:
