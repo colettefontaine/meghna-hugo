@@ -3,13 +3,12 @@ about:
   enable: true
   title: Attractivité  et  Rayonnement
   about_item:
-  - icon: 3ème Site du Lot
+  - icon: ''
     title: Valoriser le Patrimoine historique
-    content: Cité médiévale
-  - icon: La mémoire de son Passé et son Ancrage dans le Présent
+    content: Cité médiévale, 3ème Site du Lot.
+  - icon: ''
     title: Évolutions architecturales, technologiques et sociologiques.
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    content: La mémoire de son Passé et son Ancrage dans le Présent
   - icon: 'Création d''un lieu de rassemblement de la mémoire patrimoniale. '
     title: We're Genius
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
