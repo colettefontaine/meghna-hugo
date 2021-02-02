@@ -1,6 +1,6 @@
 ---
 banner:
-  enable: true
+  enable: false
   bg_image_webp: images/backgrounds/pano_20151220_165418.webp
   bg_image: images/backgrounds/pano_20151220_165418.jpg
   icon: ''
