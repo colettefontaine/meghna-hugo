@@ -4,9 +4,8 @@ banner:
   bg_image_webp: images/backgrounds/pano_20151220_165418.webp
   bg_image: images/backgrounds/pano_20151220_165418.jpg
   icon: ''
-  title: Puy l'Evêque
-  content: Lorem ipsum dolor sit amet consectetur adipisicing elit. Fugit, excepturi.
-    At recusandae sit perferendis autem,iste tempora nostrum numquam sapiente!
+  title: PUY L'ÉVÊQUE  -  Patrimoine
+  content: D'Hier  à  Aujourd'hui
   button:
     enable: true
     label: Explore Us
