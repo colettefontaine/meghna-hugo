@@ -1,15 +1,11 @@
 ---
 service:
   enable: true
-  title: Notre démarche
+  title: 'Les Thèmes '
   service_item:
-  - name: Valoriser le Patrimoine historique.
-    icon: ti-world
-    content: |+
-      Puy L'Evêque ,
-      cité médiévale,
-      3ème site du Lot
-
+  - name: Histoire
+    icon: Histoire
+    content: "\n\n"
   - name: Responsive Design
     icon: ti-layout
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
