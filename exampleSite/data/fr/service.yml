@@ -6,8 +6,8 @@ service:
   - name: Histoire
     icon: Histoire
     content: "\n\n"
-  - name: Responsive Design
-    icon: ti-layout
+  - name: Architecture
+    icon: architecture
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Media &amp; Advertisement
