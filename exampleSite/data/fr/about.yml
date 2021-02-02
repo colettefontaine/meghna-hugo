@@ -3,7 +3,7 @@ about:
   enable: true
   title: 3ème site du Lot
   about_item:
-  - icon: ti-ruler-pencil
+  - icon: 3ème site du Lot
     title: Valoriser le Patrimoine
     content: Cité médiévale
   - icon: ti-cup
