@@ -1,12 +1,11 @@
 ---
 about:
   enable: true
-  title: PUY L'ÉVÊQUE   Patrimoine
+  title: 3ème site du Lot
   about_item:
   - icon: ti-ruler-pencil
-    title: We're Creative
-    content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
-      libero, perspiciatis eos provident laborum eum dignissimos.
+    title: Valoriser le Patrimoine
+    content: Cité médiévale
   - icon: ti-cup
     title: We're Professional
     content: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Velit, nihil,
