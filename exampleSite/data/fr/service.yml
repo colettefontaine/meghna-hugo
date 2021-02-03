@@ -20,8 +20,7 @@ service:
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Lieux de Mémoire
     icon: ti-package
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: Les églises, les lavoirs, les écoles, les foires...
   - name: Art et Événementiel
     icon: ti-pulse
     content: |-
