@@ -8,5 +8,5 @@ banner:
   content: D'Hier  à  Aujourd'hui
   button:
     enable: true
-    label: Explore Us
+    label: Découvrez!
     link: "#services"
