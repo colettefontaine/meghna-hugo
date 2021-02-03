@@ -4,7 +4,7 @@ portfolio:
   title: Notre Travail
   portfolio_item:
   - name: L'Église St Sauveur
-    image: images/portfolio/portfolio-1.jpg
+    image: https://github.com/colettefontaine/meghna-hugo/blob/master/exampleSite/static/images/portfolio/20200802_113455-2.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories:
     - design
