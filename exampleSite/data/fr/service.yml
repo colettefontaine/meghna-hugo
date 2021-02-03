@@ -17,8 +17,8 @@ service:
       Navigation,Irrigation, Énergie, Moulins...
   - name: La morphologie urbaine
     icon: ti-palette
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: "Les grands travaux d'infrastructure du 19e siècles : \nPont, Chemin
+      de Fer, Grand'rue,\nAgriculture, Commerce et Artisanat"
   - name: Lieux de Mémoire
     icon: ti-package
     content: Les églises, les lavoirs, les écoles, les foires...
