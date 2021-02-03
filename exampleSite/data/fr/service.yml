@@ -15,7 +15,7 @@ service:
     content: |-
       Géographie, Faune, Flore, Gués et Ponts
       Navigation,Irrigation, Énergie, Moulins...
-  - name: La morphologie urbaine et Développement économique.
+  - name: La morphologie urbaine et  le Développement économique.
     icon: ti-palette
     content: "Les grands travaux d'infrastructure du 19e siècles : \nPont, Chemin
       de Fer, Grand'rue.\n\nAgriculture, Commerce et Artisanat"
