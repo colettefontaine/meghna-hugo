@@ -9,13 +9,12 @@ portfolio:
     categories: []
     content: Visite intérieure de l'église.
     link: https://themefisher.com
-  - name: Sound system
+  - name: Circuit "Découverte des métiers d'Autrefois"
     image: images/portfolio/portfolio-2.jpg
     image_webp: images/portfolio/portfolio-2.webp
-    categories:
-    - development
+    categories: []
     content: Lorem ipsum dolor sit amet consectetur adipisicing elit.
-    link: ''
+    link: Un plan, des rues évocatrices, des QR codes associés.
   - name: Clock Product
     image: images/portfolio/portfolio-3.jpg
     image_webp: images/portfolio/portfolio-3.webp
