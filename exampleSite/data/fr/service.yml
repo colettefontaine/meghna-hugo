@@ -18,7 +18,7 @@ service:
   - name: La morphologie urbaine
     icon: ti-palette
     content: "Les grands travaux d'infrastructure du 19e siècles : \nPont, Chemin
-      de Fer, Grand'rue,\nAgriculture, Commerce et Artisanat"
+      de Fer, Grand'rue.\n\nAgriculture, Commerce et Artisanat"
   - name: Lieux de Mémoire
     icon: ti-package
     content: Les églises, les lavoirs, les écoles, les foires...
