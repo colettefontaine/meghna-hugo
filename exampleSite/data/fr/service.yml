@@ -24,5 +24,6 @@ service:
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: Art et Événementiel
     icon: ti-pulse
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    content: |-
+      Art : Peintures et sculptures.
+      Événementiel : Poésie, cinéma, fêtes, commémorations, sport...
