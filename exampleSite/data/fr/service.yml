@@ -5,7 +5,7 @@ service:
   service_item:
   - name: Histoire
     icon: Histoire
-    content: "\n\n"
+    content: "L'Histoire de PUY L'ÉVÊQUE dans l'Histoire de France.\n\n"
   - name: Architecture
     icon: architecture
     content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
