@@ -25,4 +25,5 @@ service:
     icon: ti-pulse
     content: |-
       Art : Peintures et sculptures.
+
       Événementiel : Poésie, Cinéma, Fêtes, Commémorations, Sport...
