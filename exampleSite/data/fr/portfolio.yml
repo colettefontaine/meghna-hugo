@@ -3,7 +3,7 @@ portfolio:
   enable: true
   title: Notre Travail
   portfolio_item:
-  - name: L'Église St Sauveur
+  - name: L'église St Sauveur
     image: images/portfolio/20200802_113455-2.jpg
     image_webp: images/portfolio/portfolio-1.webp
     categories: []
