@@ -1,13 +1,13 @@
 ---
 about:
   enable: true
-  title: Démarche
+  title: Notre projet
   about_item:
   - icon: Valoriser le Patrimoine historique
     title: Valoriser le Patrimoine historique
     content: Cité médiévale, 3ème Site du Lot.
-  - icon: Évolutions architecturales, technologiques et sociologiques.
-    title: Évolutions architecturales, technologiques et sociologiques.
+  - icon: Revue sur l' évolution architecturale, technologique et sociologique.
+    title: Revue sur l' évolution architecturale, technologique et sociologique.
     content: La mémoire de son Passé et son Ancrage dans le Présent
   - icon: 'Création d''un lieu de rassemblement de la mémoire patrimoniale. '
     title: Création d'un lieu de Rassemblement  de la Mémoire Patrimoniale.
