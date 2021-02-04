@@ -2,7 +2,7 @@
 contact:
   enable: true
   title: 'Contact '
-  subtitle: ''
+  subtitle: Vos avis constructifs nous intéressent !
   content: ''
   contact_list:
   - icon: ''
@@ -20,6 +20,6 @@ contact:
     form_action: Association PUY L'ÉVÊQUE - Patrimoine
     name: 'Marie-Claude GAGÉ '
     email: puyleveque.patrimoine@gmail.com
-    subject: Votre avis constructif nous intéresse !
+    subject: ''
     message: Message
     submit: Soumettre
