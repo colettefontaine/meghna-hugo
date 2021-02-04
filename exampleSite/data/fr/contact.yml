@@ -2,8 +2,8 @@
 contact:
   enable: true
   title: 'Contact '
-  subtitle: Contact
-  content: Vos avis constructifs nous intéressent.
+  subtitle: Vos avis constructifs nous intéressent!
+  content: Vos avis constructifs nous intéressent!
   contact_list:
   - icon: ti-location-pin
     info: Khaja Road, Bayzid, Chittagong, Bangladesh
