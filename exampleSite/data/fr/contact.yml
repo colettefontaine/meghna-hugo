@@ -17,8 +17,8 @@ contact:
     info: ''
   contact_form:
     enable: true
-    form_action: Association PUY L'ÉVÊQUE - Patrimoine
-    name: 'Marie-Claude GAGÉ '
+    form_action: ''
+    name: Association PUY L'ÉVÊQUE - Patrimoine.
     email: puyleveque.patrimoine@gmail.com
     subject: ''
     message: Message
