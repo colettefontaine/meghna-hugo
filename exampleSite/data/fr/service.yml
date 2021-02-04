@@ -12,9 +12,8 @@ service:
       facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
   - name: La Rivière Lot et le Ruisseau des Clédelles
     icon: ti-blackboard
-    content: |-
-      Géographie, Faune, Flore, Gués et Ponts
-      Navigation,Irrigation, Énergie, Moulins...
+    content: "Géographie, Faune, Flore, Gués et Ponts, \nNavigation, Irrigation, Énergie,
+      Moulins..."
   - name: La morphologie urbaine et  le Développement économique.
     icon: ti-palette
     content: "Les grands travaux d'infrastructure du 19e siècles : \nPont, Chemin
