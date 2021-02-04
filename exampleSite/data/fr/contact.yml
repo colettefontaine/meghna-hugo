@@ -5,8 +5,10 @@ contact:
   subtitle: Vos avis constructifs nous intéressent!
   content: Vos avis constructifs nous intéressent!
   contact_list:
+  - icon: ''
+    info: ''
   - icon: ti-location-pin
-    info: Khaja Road, Bayzid, Chittagong, Bangladesh
+    info: Marie-Claude GAGÉ -  13, Rue du  Coustalou- 46 700  PUY l'ÉVÊQUE
   - icon: 'La Présidente : Marie-Claude GAGÉ'
     info: '0663414240'
   - icon: ti-printer
