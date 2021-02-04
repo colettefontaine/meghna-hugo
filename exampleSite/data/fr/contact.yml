@@ -2,8 +2,8 @@
 contact:
   enable: true
   title: 'Contact '
-  subtitle: Vos avis constructifs nous intéressent!
-  content: Vos avis constructifs nous intéressent!
+  subtitle: ''
+  content: ''
   contact_list:
   - icon: ''
     info: ''
