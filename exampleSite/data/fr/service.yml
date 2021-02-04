@@ -7,9 +7,9 @@ service:
     icon: Histoire
     content: "L'Histoire de PUY L'ÉVÊQUE dans l'Histoire de France.\n\n"
   - name: Architecture
-    icon: architecture
-    content: Lorem ipsum dolor sit amet, consectetur.. Sed id lorem eget orci dictum
-      facilisis vel id tellus.Nullam iaculis arcu at mauris dapibus consectetur.
+    icon: Architecture
+    content: "Édification de bâtiments, Organisation et Aménagements urbains, \nConcepts
+      esthétiques, Photogénie."
   - name: La Rivière Lot et le Ruisseau des Clédelles
     icon: ti-blackboard
     content: "Géographie, Faune, Flore, Gués et Ponts, \nNavigation, Irrigation, Énergie,
