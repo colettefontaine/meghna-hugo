@@ -4,8 +4,8 @@ portfolio:
   title: Notre Travail
   portfolio_item:
   - name: L'église St Sauveur
-    image: 20200802_113455-2.jpg
-    image_webp: 20200802_113455-2.webp
+    image: images/portfolio/portfolio-1.jpg
+    image_webp: images/portfolio/portfolio-1.webp
     categories: []
     content: Visite détaillée de l'intérieur de l'église.
     link: https://themefisher.com
