@@ -1,7 +1,7 @@
 ---
 service:
   enable: true
-  title: 'Les Thèmes '
+  title: Les Thèmes de travail
   service_item:
   - name: Histoire
     icon: Histoire
