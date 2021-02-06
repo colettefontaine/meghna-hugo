@@ -5,7 +5,8 @@ date: 2021-06-01T02:00:00+00:00
 image_webp: "/images/blog/associations 2.jpg"
 image: ''
 author: Colette Fontaine
-description: Toutes les Associations
+description: Liste des Associations répertoriées par ordre chronologique, depuis 1901
+  à PUY L'ÉVÊQUE, réalisée avec l'aide gracieuse  de la Préfecture et de la Mairie.
 
 ---
 Liste des Associations répertoriées par ordre chronologique, depuis 1901 à PUY L'ÉVÊQUE, réalisée avec l'aide gracieuse  de la Préfecture et de la Mairie.
