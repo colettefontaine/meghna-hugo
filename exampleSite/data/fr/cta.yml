@@ -5,8 +5,8 @@ cta:
   bg_image_webp: images/backgrounds/bg-white-wall.webp
   title: PUY L'ÉVÊQUE, une cité médiévale.
   content: "C’est depuis son unique pont sur le Lot,  le dos tourné au Sud que la
-    vue sur PUY L’EVEQUE  est la plus époustouflante !  \nUn empilement de bâtisses
-    s ‘érigent sur un front rocheux, de la confluence du Lot avec les Clédelles jusqu’à
+    vue sur PUY L’EVEQUE  est la plus époustouflante !  \n\nUn empilement de bâtisses
+    s‘érigent sur un front rocheux, de la confluence du Lot avec les Clédelles jusqu’à
     la Tour carrée au sommet. Depuis plus de mille ans, elles sont là, témoins d’un
     passé historique, surveillant la rivière et subissant les caprices du temps. Elles
     semblent monter la garde, aussi immuables que le rocher calcaire sur lequel elles
@@ -18,7 +18,7 @@ cta:
     dans un castrum! \n\nElles regardent les passants, ces maisons,  et s’amusent
     de la stupéfaction des touristes s’aventurant pour la première fois en face d’elles.
     Elles savent qu’ils  finiront par piéger leur charme dans leur appareil photographique!
-    \ "
+    \ \n\nL'esthétique de l'ensemble est tout à fait envoutant et photogénique!"
   button:
     enable: true
     label: Start a project with us
