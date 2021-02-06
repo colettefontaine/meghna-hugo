@@ -3,7 +3,7 @@ team:
   enable: true
   title: Notre équipe
   team_member:
-  - name: Marie Claude GAGÉ   et   Daniel GAGÉ
+  - name: Marie Claude GAGÉ et Daniel GAGÉ
     image_webp: ''
     image: ''
     designation: Présidente et Secrétaire adjoint
