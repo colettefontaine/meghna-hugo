@@ -32,4 +32,6 @@ team:
     image: ''
     designation: 'Chargée du site WEB et chargés d''inovation par des techniques nouvelles '
     content: ''
-    social: ''
+    social:
+    - icon: ''
+      link: ''
