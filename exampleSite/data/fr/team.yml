@@ -75,10 +75,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Jacques CHAVANON
+  - name: Gabriel SIMONEAU
     image_webp: images/team/team-4.webp
     image: images/team/team-4.jpg
-    designation: Trésorier adjoint
+    designation: Chargé d'inovation par des techniques nouvelles
     content: ''
     social:
     - icon: ti-facebook
