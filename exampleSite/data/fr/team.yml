@@ -33,10 +33,10 @@ team:
     designation: Secrétaire adjoint
     content: ''
     social: ''
-  - name: Claude CHAVANON
+  - name: ''
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: chargée de l'adaptation à l'handicap
+    designation: ''
     content: ''
     social:
     - icon: ti-facebook
