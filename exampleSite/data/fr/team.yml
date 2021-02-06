@@ -6,8 +6,8 @@ team:
   - name: 'Marie Claude GAGÉ '
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: CEO/Founder
-    content: Présidente de l'association
+    designation: 'Présidente '
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
@@ -34,7 +34,7 @@ team:
   - name: Gilbert Croze
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: Web Developer
+    designation: ''
     content: Trésorier
     social:
     - icon: ti-facebook
