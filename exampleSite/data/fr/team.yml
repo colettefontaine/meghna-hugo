@@ -64,7 +64,7 @@ team:
   - name: ''
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: chargé d'inovation  par des techniques récentes
+    designation: ''
     content: ''
     social:
     - icon: ti-facebook
