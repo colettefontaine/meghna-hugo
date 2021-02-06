@@ -3,8 +3,8 @@ about:
   enable: true
   title: Notre projet
   about_item:
-  - icon: tf-ion-images
-    title: Valorisation du Patrimoine Historique de PUY L'ÉVÊQUE
+  - icon: Valoriser le Patrimoine
+    title: Valoriser le Patrimoine
     content: 'Cité médiévale. 3e Site du Lot. Site inscrit au titre de la Protection
       des Monuments Historiques depuis 1944, '
   - icon: Revues sur l'évolution architecturale, technologique, culturelle et sociologique.
