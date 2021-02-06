@@ -34,8 +34,8 @@ team:
   - name: Gilbert Croze
     image_webp: images/team/team-3.webp
     image: images/team/team-3.jpg
-    designation: ''
-    content: Trésorier
+    designation: Trésorier
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
