@@ -47,10 +47,10 @@ team:
       link: "#"
     - icon: ti-dribbble
       link: "#"
-  - name: Gabrielle CORNE
+  - name: Colette FONTAINE
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
-    designation: Secrétaire
+    designation: Chargée du Site WEB
     content: ''
     social:
     - icon: ti-facebook
