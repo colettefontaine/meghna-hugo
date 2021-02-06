@@ -1,5 +1,6 @@
 ---
-title: Liste des Associations
+title: Recensement de toutes les Associations créées à Puy L'Evêque depuis le 1er
+  juillet 1901.
 date: 2021-06-01T02:00:00+00:00
 image_webp: "/images/blog/associations 2.jpg"
 image: ''
