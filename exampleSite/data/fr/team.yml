@@ -3,6 +3,36 @@ team:
   enable: true
   title: Notre équipe
   team_member:
+  - name: Marie Claude GAGÉ
+    image_webp: ''
+    image: ''
+    designation: Présidente
+    content: ''
+    social: ''
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
+  - name: ''
+    image_webp: ''
+    image: ''
+    designation: ''
+    content: ''
+    social: ''
   - name: 'Marie Claude GAGÉ '
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
