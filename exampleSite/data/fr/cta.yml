@@ -20,6 +20,6 @@ cta:
     Elles savent qu’ils  finiront par piéger leur charme dans leur appareil photographique!
     \ \n\nL'esthétique de l'ensemble est tout à fait envoutant et photogénique!"
   button:
-    enable: true
+    enable: false
     label: Start a project with us
     link: "#contact"
