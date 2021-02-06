@@ -1,6 +1,6 @@
 ---
 portfolio:
-  enable: true
+  enable: false
   title: Notre Travail
   portfolio_item:
   - name: L'église St Sauveur
