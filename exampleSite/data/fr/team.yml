@@ -20,8 +20,8 @@ team:
   - name: Gabrielle CORNE
     image_webp: images/team/team-2.webp
     image: images/team/team-2.jpg
-    designation: ''
-    content: Secrétaire
+    designation: Secrétaire
+    content: ''
     social:
     - icon: ti-facebook
       link: "#"
