@@ -33,10 +33,10 @@ team:
     designation: Secrétaire adjoint
     content: ''
     social: ''
-  - name: 'Marie Claude GAGÉ '
+  - name: Claude CHAVANON
     image_webp: images/team/team-1.webp
     image: images/team/team-1.jpg
-    designation: 'Présidente '
+    designation: chargée de l'adaptation à l'handicap
     content: ''
     social:
     - icon: ti-facebook
